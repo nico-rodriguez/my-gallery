@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab8e70ce-e9b0-4c3c-abd9-94562610ecc5/deploy-status)](https://app.netlify.com/sites/my-gallery-32b42e/deploys)
+
 ## Overview
 
 Visit [https://my-gallery-32b42e.netlify.app/](https://my-gallery-32b42e.netlify.app/).
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
